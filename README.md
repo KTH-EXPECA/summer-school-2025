@@ -51,9 +51,8 @@ Part 1:
 
 Part 2:
 - **Step 1: Setup — Install & Load Data**  
-- **Step 2: Inspect Datasets**
-- **Step 3: Conditional Latency/Reliability Analysis**
-- **Step 4: Train Conditional Models**
+- **Step 2: Conditional Latency/Reliability Analysis**
+- **Step 3: Train Conditional Models**
 
 ---
 
