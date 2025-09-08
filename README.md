@@ -7,7 +7,7 @@ Samie Mostafavi  •  KTH Royal Institute of Technology
 samiemostafavi@gmail.com  •  2025-09-08  •  Stockholm
 
 
-Reliable low-latency is the backbone of real-time 5G/6G applications. In this workshop, you’ll explore packet delay data from multiple experiments, build **Gaussian Mixture Models (GMMs)** for the bulk distribution, and extend them with a **Generalized Pareto tail** via an **Extreme-Value Mixture (EVM)** to capture rare delay spikes that matter for service-level agreements (SLAs).
+Reliable low-latency is the backbone of real-time 5G/6G applications. In this workshop, you’ll explore packet delay data from multiple experiments, build probabilistic ML models with Tensorflow to capture rare delay spikes that matter for time critical applications.
 
 We start with unconditional (marginal) density estimation of latency in Part 1, then move to conditional density estimation in Part 2, predicting the latency distribution given the available features in the dataset.
 
