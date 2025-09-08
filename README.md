@@ -31,12 +31,12 @@ References:
 ---
 
 ## Methods at a glance
-In this notebook, as the first step, we only apply density estimation methods.
+In the first notebook (part 1), we only apply density estimation methods.
 - **GMM (bulk):** Multi-modal fit of typical delays.  
 - **EVM (bulk + tail):** GMM for the bulk + **GPD** for exceedances above a learned threshold `u`.  
   This improves estimation of **tail probabilities**.
 
-Next, we model how the latency distribution depends on transmission conditions by learning a conditional density that links delays to the observed features.
+Next (part 2), we model how the latency distribution depends on transmission conditions by learning a conditional density that links delays to the observed features.
 
 ---
 
